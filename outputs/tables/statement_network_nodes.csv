@@ -1,0 +1,61 @@
+,theme,community,degree,strength,betweenness,statement
+S09,Ethics & Society,2,28,11.109035107926058,0.062262218738828964,Universities should promote an inclusive environment where different viewpoints can be discussed respectfully.
+S14,Ethics & Society,2,26,9.981787715904709,0.05641766235230259,Leaders should prioritize ethical decision-making even when it reduces short-term gains.
+V07,Environment,1,23,9.70733521289567,0.0341074300386176,Protecting biodiversity is essential for long-term human well-being.
+V15,Environment,0,25,9.330234773312135,0.0384083536950368,Current generations have a responsibility to protect natural resources for future generations.
+V08,Environment,1,22,9.003042008006888,0.017995554601430302,Universities should adopt environmentally sustainable campus practices even if implementation costs increase.
+V10,Environment,1,22,8.917218907899898,0.02037498209192543,Consumers should consider environmental impact when purchasing products.
+V12,Environment,1,21,8.474782032430488,0.007716699696431332,Environmental sustainability should be integrated into higher education curricula.
+V14,Environment,1,22,8.340603558064664,0.03423331390570736,International cooperation is necessary to effectively address environmental challenges.
+V04,Environment,1,22,8.0207620417905,0.014637386491877834,Public transportation and non-motorized transport should be promoted even if they require additional public investment.
+S06,Ethics & Society,1,20,7.469458582629943,0.015140994942564774,"Combating online misinformation requires shared responsibility among users, platforms, and governments."
+S11,Ethics & Society,0,20,7.3790018562370285,0.04909518228245286,People should be free to express differing opinions as long as they do not promote harm or discrimination.
+V09,Environment,1,19,7.213692829986487,0.024131664207052646,"Products should be designed to encourage reuse, repair, and recycling."
+E11,Education,0,20,7.052210083465558,0.041183229791970186,University curricula should be updated more frequently to match emerging technologies.
+V13,Environment,1,17,6.890421628314381,0.019816908625017407,Companies should be held accountable for the environmental impacts of their activities.
+S13,Ethics & Society,2,18,6.882947281123994,0.028860973590418594,Critical evaluation of online information should be taught as a core educational skill.
+S07,Ethics & Society,0,19,6.851795266405832,0.033919678411993726,Equal opportunities should be prioritized regardless of a person's background.
+V06,Environment,1,17,6.656661846598003,0.004315595514414639,"Water conservation should be a priority in households, institutions, and industries."
+E10,Education,0,18,6.488317970916109,0.047007211877074705,Universities should prioritize innovation and problem-solving over rote learning.
+V03,Environment,1,17,6.393168173234898,0.009525098990778628,Individuals should actively reduce their personal energy consumption.
+S15,Ethics & Society,2,17,6.377715554376047,0.03834811173099374,Building public trust is essential for responsible adoption of emerging technologies.
+V05,Environment,1,16,6.062848143311998,0.0035607031910847007,Single-use plastics should be significantly restricted.
+E07,Education,0,15,5.830758117340307,0.018595764132878945,"Publishing research before graduation should be encouraged, but not mandatory."
+T11,Technology,2,15,5.162441249437997,0.0398162787508772,Technology companies should explain how recommendation algorithms work.
+V11,Environment,1,14,5.029391001126848,0.006486523966140469,Technological innovation is essential for addressing environmental challenges.
+E15,Education,0,13,4.927959602756902,0.011548797260861658,Continuous learning and skill development are essential throughout one's career.
+V02,Environment,1,13,4.584087556818659,0.011882533721333497,Governments should prioritize investment in renewable energy over fossil fuels.
+E12,Education,0,12,4.418227359525984,0.06410802754215335,Artificial intelligence should be integrated into teaching and personalized learning.
+S10,Ethics & Society,2,12,4.34375754614468,0.02605563319498938,Scientific evidence should play an important role in public policy decisions.
+S12,Ethics & Society,2,12,4.186177128394941,0.008215900556141163,Young people should actively participate in addressing societal challenges.
+S03,Ethics & Society,2,11,4.128805490678762,0.006331102255571166,New technologies should be evaluated for their societal impact before widespread deployment.
+S02,Ethics & Society,2,10,3.7316059942945827,0.009427472776919818,Universities should encourage students to participate in community service activities.
+V01,Environment,1,9,3.3704345101548965,0.007137531143989498,Climate change requires immediate global action.
+S04,Ethics & Society,2,9,3.254781831870635,0.002477640386757862,Technology companies should be accountable for unethical use of their platforms.
+E14,Education,0,8,2.9892101324899403,0.031074142105702595,Strong collaborations between universities and industry improve student education.
+T12,Technology,3,7,2.750221768998014,0.013049047868600542,Governments should introduce stricter regulations for Artificial Intelligence.
+S01,Ethics & Society,2,7,2.646250309876593,0.0026762152711889706,Every individual has a responsibility to contribute positively to society.
+T06,Technology,0,5,1.7879179993608985,0.0007643304958770004,Most repetitive jobs will eventually be replaced by intelligent automation.
+S05,Ethics & Society,3,4,1.5977195189538227,0.001262822507708539,Individuals should have greater control over how their personal data are collected and used.
+T13,Technology,3,4,1.465013901218561,0.0009585355874075919,Cybersecurity deserves greater investment than the development of new digital technologies.
+E05,Education,0,4,1.4126300485120127,0.006736022001114842,Students should be encouraged to take courses outside their primary discipline.
+E01,Education,0,4,1.343930755870197,0.002020885812523603,Project-based learning develops deeper understanding than examination-oriented learning.
+T10,Technology,3,3,1.284668951985918,0.0,Protection of personal data is more important than technological convenience.
+E09,Education,0,4,1.2790754190047906,0.0018769859272489311,Collaborative learning is generally more effective than individual learning.
+T03,Technology,3,3,1.0220852091161199,0.0016281392681253167,Students should disclose the use of AI in assignments and reports.
+E08,Education,1,3,0.9715245751981348,7.305669199298655e-05,Maintaining academic honesty is more important than obtaining high grades.
+T02,Technology,0,2,0.86434162515143,0.029807130333138514,Generative AI tools should be allowed as learning aids in higher education.
+E06,Education,0,2,0.8247475821617762,0.0008335063858149772,Every undergraduate student should participate in at least one research project.
+T07,Technology,1,2,0.6695008642699718,0.0,Robots should replace humans in hazardous occupations whenever possible.
+S08,Ethics & Society,2,2,0.6099174142322572,0.0,Diverse teams generally make better decisions than homogeneous teams.
+T01,Technology,0,1,0.38195141925650405,0.0,Artificial Intelligence will improve society more than it will create problems.
+T05,Technology,0,1,0.33471949922137156,0.0,Artificial Intelligence will significantly accelerate scientific discovery.
+T15,Technology,2,1,0.32914197271905266,0.0,Society will increasingly depend on AI-assisted decision making.
+T04,Technology,0,1,0.30317405174159995,0.0,Every engineering student should receive formal education in AI.
+E13,Education,10,0,0.0,0.0,Universities should invest more resources in research than in expanding infrastructure.
+E03,Education,8,0,0.0,0.0,Class attendance should be compulsory for all courses.
+E02,Education,7,0,0.0,0.0,Traditional written examinations accurately measure a student's knowledge.
+T14,Technology,6,0,0.0,0.0,Social media algorithms contribute to opinion polarization.
+T09,Technology,5,0,0.0,0.0,Autonomous vehicles will ultimately make transportation safer.
+T08,Technology,4,0,0.0,0.0,AI-assisted diagnosis should become routine in healthcare.
+E04,Education,9,0,0.0,0.0,High-quality online learning can effectively complement classroom teaching.

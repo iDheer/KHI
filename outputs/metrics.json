@@ -1,0 +1,495 @@
+{
+  "data": {
+    "raw_rows": 96,
+    "statements": 60,
+    "id_range": [
+      11,
+      126
+    ],
+    "empty_rows": 5,
+    "dropped_partial_rows": 4,
+    "retained": 87,
+    "cells_missing_in_retained": 62,
+    "no_comments_in_retained": 37,
+    "overall_mean": 1.1419154711128345,
+    "share_agree": 0.7906130268199234,
+    "share_strongly_agree": 0.42873563218390803,
+    "share_disagree": 0.06973180076628352,
+    "theme_means": {
+      "Education": 0.9090208172706246,
+      "Environment": 1.3850980392156862,
+      "Ethics & Society": 1.2825077399380804,
+      "Technology": 0.9953632148377125
+    }
+  },
+  "respondent_network": {
+    "nodes": 87,
+    "edges": 466,
+    "density": 0.12456562416466185,
+    "components": 1,
+    "giant_component_size": 87,
+    "mean_degree": 10.71264367816092,
+    "median_degree": 10.0,
+    "max_degree": 20,
+    "mean_strength": 3.368909966658171,
+    "avg_clustering": 0.28621397068071563,
+    "avg_weighted_clustering": 0.12863601668232888,
+    "transitivity": 0.30722525804493017,
+    "avg_shortest_path": 2.3082063619353113,
+    "diameter": 4,
+    "avg_weighted_path_(1-sim)": 1.5496381832579642,
+    "degree_assortativity": 0.10171907283699953
+  },
+  "similarity": {
+    "mean": -0.010164792529696815,
+    "sd": 0.19978520897582008,
+    "p05": -0.3336411078381124,
+    "p95": 0.3196413287574472,
+    "edge_weight_mean": 0.3144797930249581
+  },
+  "communities": {
+    "modularity": 0.41797601744131685,
+    "n_communities": 3,
+    "sizes": [
+      45,
+      23,
+      19
+    ],
+    "stability_mean_ari": 0.7375120746946809,
+    "modularity_range": [
+      0.39378346039174433,
+      0.41797601744131685
+    ],
+    "names": [
+      "Moderate Pragmatists",
+      "Progressive Idealists",
+      "Tech-Cautious Regulators"
+    ]
+  },
+  "resolution_sweep": [
+    {
+      "resolution": 0.6,
+      "communities": 2,
+      "modularity": 0.40592994298068713,
+      "stability_ari": 0.9135362516126317,
+      "sizes": [
+        49,
+        38
+      ]
+    },
+    {
+      "resolution": 0.8,
+      "communities": 2,
+      "modularity": 0.4056025881109811,
+      "stability_ari": 0.8018787368571548,
+      "sizes": [
+        50,
+        37
+      ]
+    },
+    {
+      "resolution": 1.0,
+      "communities": 3,
+      "modularity": 0.4153379206871133,
+      "stability_ari": 0.7486938140826314,
+      "sizes": [
+        49,
+        24,
+        14
+      ]
+    },
+    {
+      "resolution": 1.2,
+      "communities": 5,
+      "modularity": 0.4132842257786841,
+      "stability_ari": 0.4985669751378718,
+      "sizes": [
+        34,
+        21,
+        16,
+        14,
+        2
+      ]
+    },
+    {
+      "resolution": 1.4,
+      "communities": 6,
+      "modularity": 0.3991417466319397,
+      "stability_ari": 0.6905326729963922,
+      "sizes": [
+        19,
+        18,
+        17,
+        16,
+        10,
+        7
+      ]
+    },
+    {
+      "resolution": 1.6,
+      "communities": 8,
+      "modularity": 0.38400107732464045,
+      "stability_ari": 0.6551286935437433,
+      "sizes": [
+        16,
+        15,
+        14,
+        11,
+        8,
+        8,
+        8,
+        7
+      ]
+    },
+    {
+      "resolution": 2.0,
+      "communities": 11,
+      "modularity": 0.36057146984895116,
+      "stability_ari": 0.7227489418968595,
+      "sizes": [
+        17,
+        13,
+        11,
+        8,
+        8,
+        7,
+        6,
+        6,
+        5,
+        3,
+        3
+      ]
+    }
+  ],
+  "centrality_corr": {
+    "degree_vs_mean_score_spearman": 0.1447933329652504,
+    "betweenness_vs_mean_score_spearman": 0.05549021780908218
+  },
+  "community_profiles": {
+    "Moderate Pragmatists": {
+      "size": 45,
+      "mean_score": 0.9053544494720965,
+      "share_strongly_agree": 0.2733333333333333,
+      "share_disagree": 0.0837037037037037,
+      "theme_means": {
+        "Education": 0.7640949554896143,
+        "Environment": 1.0927357032457496,
+        "Ethics & Society": 0.9849397590361446,
+        "Technology": 0.7871064467766117
+      },
+      "intra_edge_share": 0.7701149425287356
+    },
+    "Progressive Idealists": {
+      "size": 23,
+      "mean_score": 1.3938730853391685,
+      "share_strongly_agree": 0.5978260869565217,
+      "share_disagree": 0.05652173913043478,
+      "theme_means": {
+        "Education": 1.1088235294117648,
+        "Environment": 1.7536231884057971,
+        "Ethics & Society": 1.6511627906976745,
+        "Technology": 1.0555555555555556
+      },
+      "intra_edge_share": 0.5523255813953488
+    },
+    "Tech-Cautious Regulators": {
+      "size": 19,
+      "mean_score": 1.3903083700440528,
+      "share_strongly_agree": 0.5921052631578947,
+      "share_disagree": 0.05263157894736842,
+      "theme_means": {
+        "Education": 1.0141342756183747,
+        "Environment": 1.6042402826855124,
+        "Ethics & Society": 1.5316901408450705,
+        "Technology": 1.4105263157894736
+      },
+      "intra_edge_share": 0.3716216216216216
+    }
+  },
+  "significant_statements_q05": 49,
+  "permutation_null": {
+    "mean": 0.363248656334051,
+    "sd": 0.013551520097905664,
+    "max": 0.4167686533708929,
+    "z": 4.03846658617462,
+    "p_empirical": 0.004975124378109453
+  },
+  "small_world": {
+    "C": 0.30722525804493017,
+    "L": 2.3082063619353113,
+    "C_rand": 0.12376442015786279,
+    "L_rand": 2.098524458700882,
+    "C_rand_sd": 0.008002935380359805,
+    "L_rand_sd": 0.006076096046225621,
+    "sigma": 2.256838634522893
+  },
+  "robustness": [
+    {
+      "variant": "kNN k=6",
+      "edges": 366,
+      "communities": 5,
+      "modularity": 0.4517019226653514,
+      "ARI_vs_main": 0.49790022680407575,
+      "NMI_vs_main": 0.6054271139300667
+    },
+    {
+      "variant": "kNN k=10",
+      "edges": 563,
+      "communities": 2,
+      "modularity": 0.4040155845260224,
+      "ARI_vs_main": 0.6493916682060197,
+      "NMI_vs_main": 0.5967165079036789
+    },
+    {
+      "variant": "Top-10% threshold",
+      "edges": 375,
+      "communities": 4,
+      "modularity": 0.4258452618285451,
+      "ARI_vs_main": 0.8863717228870703,
+      "NMI_vs_main": 0.833087837172696
+    },
+    {
+      "variant": "Person-centred cosine (k=8)",
+      "edges": 405,
+      "communities": 6,
+      "modularity": 0.40747807567157734,
+      "ARI_vs_main": 0.17129660025125976,
+      "NMI_vs_main": 0.30018608000367125
+    },
+    {
+      "variant": "Raw cosine, no centring (k=8)",
+      "edges": 617,
+      "communities": 5,
+      "modularity": 0.25837155163420283,
+      "ARI_vs_main": 0.02426641425006454,
+      "NMI_vs_main": 0.10542805695012679
+    }
+  ],
+  "theme_networks": [
+    {
+      "theme": "Technology",
+      "respondents": 87,
+      "edges": 422,
+      "modularity": 0.45665019959745984,
+      "communities": 6,
+      "stability_ari": 0.6724480513174406
+    },
+    {
+      "theme": "Education",
+      "respondents": 87,
+      "edges": 436,
+      "modularity": 0.4584478756417121,
+      "communities": 5,
+      "stability_ari": 0.5519528701104711
+    },
+    {
+      "theme": "Ethics & Society",
+      "respondents": 87,
+      "edges": 485,
+      "modularity": 0.4678661338989703,
+      "communities": 4,
+      "stability_ari": 0.7654240539564318
+    },
+    {
+      "theme": "Environment",
+      "respondents": 85,
+      "edges": 509,
+      "modularity": 0.4739854207880762,
+      "communities": 3,
+      "stability_ari": 0.8306584982139352
+    }
+  ],
+  "theme_partition_ari": {
+    "Technology": {
+      "Technology": 1.0,
+      "Education": 0.015891119221411194,
+      "Ethics & Society": 0.01678499908975059,
+      "Environment": 0.041739531959208535
+    },
+    "Education": {
+      "Technology": 0.015891119221411194,
+      "Education": 1.0,
+      "Ethics & Society": 0.05047866470425423,
+      "Environment": 0.0775366108786611
+    },
+    "Ethics & Society": {
+      "Technology": 0.01678499908975059,
+      "Education": 0.05047866470425423,
+      "Ethics & Society": 1.0,
+      "Environment": 0.15793885044993983
+    },
+    "Environment": {
+      "Technology": 0.041739531959208535,
+      "Education": 0.0775366108786611,
+      "Ethics & Society": 0.15793885044993983,
+      "Environment": 1.0
+    }
+  },
+  "statement_network": {
+    "nodes": 53,
+    "edges": 321,
+    "density": 0.23294629898403482,
+    "components": 1,
+    "giant_component_size": 53,
+    "mean_degree": 12.11320754716981,
+    "median_degree": 12.0,
+    "max_degree": 28,
+    "mean_strength": 4.574324735522932,
+    "avg_clustering": 0.5052006417197776,
+    "avg_weighted_clustering": 0.2909833426083714,
+    "transitivity": 0.5509383378016086,
+    "avg_shortest_path": 2.1248185776487665,
+    "diameter": 5,
+    "avg_weighted_path_(1-sim)": 1.290362792446295,
+    "degree_assortativity": 0.192920705675953,
+    "isolated_statements": [
+      "T08",
+      "T09",
+      "T14",
+      "E02",
+      "E03",
+      "E04",
+      "E13"
+    ],
+    "significant_negative_pairs": [
+      [
+        "T03",
+        "E04",
+        -0.33296361123039614
+      ],
+      [
+        "T14",
+        "E03",
+        -0.31311952353546785
+      ],
+      [
+        "E01",
+        "E02",
+        -0.32767885072110375
+      ],
+      [
+        "E03",
+        "E10",
+        -0.40455752926674554
+      ],
+      [
+        "E03",
+        "E11",
+        -0.34606869899633597
+      ],
+      [
+        "E03",
+        "E12",
+        -0.3048636675891936
+      ]
+    ],
+    "communities": {
+      "0": [
+        "E01",
+        "E05",
+        "E06",
+        "E07",
+        "E09",
+        "E10",
+        "E11",
+        "E12",
+        "E14",
+        "E15",
+        "S07",
+        "S11",
+        "T01",
+        "T02",
+        "T04",
+        "T05",
+        "T06",
+        "V15"
+      ],
+      "1": [
+        "E08",
+        "S06",
+        "T07",
+        "V01",
+        "V02",
+        "V03",
+        "V04",
+        "V05",
+        "V06",
+        "V07",
+        "V08",
+        "V09",
+        "V10",
+        "V11",
+        "V12",
+        "V13",
+        "V14"
+      ],
+      "2": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S08",
+        "S09",
+        "S10",
+        "S12",
+        "S13",
+        "S14",
+        "S15",
+        "T11",
+        "T15"
+      ],
+      "3": [
+        "S05",
+        "T03",
+        "T10",
+        "T12",
+        "T13"
+      ],
+      "4": [
+        "T08"
+      ],
+      "5": [
+        "T09"
+      ],
+      "6": [
+        "T14"
+      ],
+      "7": [
+        "E02"
+      ],
+      "8": [
+        "E03"
+      ],
+      "9": [
+        "E04"
+      ],
+      "10": [
+        "E13"
+      ]
+    },
+    "modularity": 0.2390115020579483,
+    "stability_ari": 0.8563070468555525,
+    "NMI_vs_themes": 0.47324935849503097,
+    "ARI_vs_themes": 0.38681547700660873,
+    "mean_rho_within_theme": 0.21875608999483392,
+    "mean_rho_between_themes": 0.13179143260918236,
+    "top_strength": {
+      "S09": 11.11,
+      "S14": 9.98,
+      "V07": 9.71,
+      "V15": 9.33,
+      "V08": 9.0,
+      "V10": 8.92,
+      "V12": 8.47,
+      "V14": 8.34
+    },
+    "top_betweenness": {
+      "E12": 0.064,
+      "S09": 0.062,
+      "S14": 0.056,
+      "S11": 0.049,
+      "E10": 0.047,
+      "E11": 0.041
+    }
+  }
+}
