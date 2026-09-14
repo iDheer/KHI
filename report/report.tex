@@ -347,15 +347,15 @@ similarity treats them as interval, while Spearman (statement network) and Krusk
 
 %==============================================================================================
 \section{Individual Contribution}
-The work was divided roughly as \textbf{Inesh 40\%}, \textbf{Khwaish 30\%} and \textbf{Hiten 30\%}. Each member reviewed the others' code and the final report.
+The specific tasks completed by each member are listed below. Each member also reviewed the others' code and the final report.
 
 \begin{table}[h]
 \centering\small
-\begin{tabularx}{\linewidth}{@{}p{2.3cm}c X@{}}
+\begin{tabularx}{\linewidth}{@{}p{2.3cm}X@{}}
 \toprule
-\textbf{Member} & \textbf{Share} & \textbf{Specific tasks completed}\\
+\textbf{Member} & \textbf{Specific tasks completed}\\
 \midrule
-\textbf{Inesh} & 40\% &
+\textbf{Inesh} &
 \textbf{Project lead and network design.} Designed the overall two-network approach. Chose and implemented the
 item-centred, pairwise-complete cosine similarity and the kNN backbone (\texttt{src/network.py}), including the
 $k$-sweep used to select $k=8$. Implemented Louvain community detection with multi-seed stability, the resolution
@@ -364,14 +364,14 @@ comparison (\texttt{src/analysis.py}). Built the end-to-end pipeline (\texttt{ru
 GitHub repository, interpreted the three opinion communities and wrote the Pipeline, Results \& Discussion and
 Limitations sections.\\
 \midrule
-\textbf{Khwaish} & 30\% &
+\textbf{Khwaish} &
 \textbf{Data preparation and opinion profiling.} Studied the survey structure and wrote the loading and encoding
 module (\texttt{src/preprocess.py}): Likert coding, treating ``No Comments'' as missing, respondent quality
 diagnostics, the 75\% completeness filter, and checks for straight-lining and duplicate responses. Produced the
 descriptive statistics and the Tastle--Wierman consensus analysis, implemented the Kruskal--Wallis/FDR community
 profiling, and created Figures 1 and 5. Wrote the Dataset Documentation section and the community profile descriptions.\\
 \midrule
-\textbf{Hiten} & 30\% &
+\textbf{Hiten} &
 \textbf{Statement network, centrality and visualisation.} Implemented the Spearman correlation matrix with
 Benjamini--Hochberg filtering, built the statement network and evaluated its communities against the themes (NMI/ARI).
 Built the per-theme respondent networks and the cross-theme ARI comparison, and computed the node centralities and

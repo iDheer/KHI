@@ -5,7 +5,7 @@ DPCN Assignment 1. We build and analyse networks from a class survey of 60 Liker
 
 **Final report:** [`Team_KHI_Assignment1_Report.pdf`](Team_KHI_Assignment1_Report.pdf) (LaTeX source in `report/`)
 
-Team: **Inesh** (40%), **Khwaish** (30%), **Hiten** (30%). The detailed breakdown is in Section 7 of the report.
+Team: **Inesh**, **Khwaish**, **Hiten**. Individual contributions are detailed in Section 7 of the report.
 
 ## Approach in one paragraph
 Answers are coded from −2 to +2. "No Comments" and blank answers count as missing, and respondents who answered
